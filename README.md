@@ -15,7 +15,3 @@ This is a N-gram language model that predicts the next word based on a precalcul
 4. Run 'bigramConditionalProbability.py' file using `python bigramConditionalProbability.py`. Note that you will need to have `pickle` module installed before that. You can install it using `pip install pickle`. (It would be recommended to have a virtual environment for such stuff). Previous command will create some pickle dumps in `pickleDumps` directory.
 4. Run `python getTopBigram.py` and enjoy :p.
 
-### Screenshot of Output
-
-![output](https://raw.githubusercontent.com/rikenshah/predict-next-word/master/outputScreenshot/output.png)
-
